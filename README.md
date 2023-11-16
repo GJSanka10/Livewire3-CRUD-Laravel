@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## CRUD With Custom Registration and Login
+
+
+![lw12](https://github.com/GJSanka10/Livewire3-CRUD-Laravel/assets/121654570/153e6df6-8ad0-458e-8388-51b952951b69)
+
+![lw11](https://github.com/GJSanka10/Livewire3-CRUD-Laravel/assets/121654570/0255aaa6-356a-46bc-9395-3ad97a00ddb1)
+
+![lw13](https://github.com/GJSanka10/Livewire3-CRUD-Laravel/assets/121654570/3cdb5657-24d9-4595-99f8-8ff5b4db49fc)
+
+* Download the repository
+* Run php artisan serve
+* Run npm run dev
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
